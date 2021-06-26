@@ -16,6 +16,7 @@
   },
   "version": "0.1.0",
   "devDependencies": {
+    "@babel/plugin-proposal-export-namespace-from": "npm:null@*",
     "webpack-dev-server": "^3.11.2"
   }
 }
